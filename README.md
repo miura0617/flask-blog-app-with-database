@@ -21,6 +21,7 @@ python3
 
 ## Flask環境変数設定
 $env:FLASK_APP = "app"
+
 $env:FLASK_ENV = "development"
 
 ## Flaskサーバ起動

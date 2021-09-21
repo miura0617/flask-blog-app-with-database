@@ -13,8 +13,8 @@ pip install -r requirements.txt
 
 ## Python対話モードでSQLiteのDB(blog.db)を作成
 python3
->>>> from app import db
->>>> db.create_all()
+ >>>> from app import db
+ >>>> db.create_all()
 
 ## Flask環境変数設定
 $env:FLASK_APP = "app"
